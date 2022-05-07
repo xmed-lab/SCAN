@@ -1,0 +1,2 @@
+from .cluster_head_2losses import ClusterHead2Losses
+from .cluster_head_3losses import ClusterHead3Losses
